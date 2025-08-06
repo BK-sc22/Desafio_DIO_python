@@ -16,4 +16,4 @@
 #### • Limite de saque diário de R$1500.00
 #### • No fim da listagem deve ser exibido o saldo atual da conta
 #### • Os valores devem ser exibidos utilizando o formato R$xxx.xx
-#### • Visualizar o menu com as 3 operações e a opção de sair
+#### • Visualizar o menu com as 3 operações e a opção sair
